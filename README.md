@@ -4,4 +4,5 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 
 #### Links
 [NVIDIA/Docker Github](https://github.com/NVIDIA/nvidia-docker) <br/>
-[NVIDIA/Docker PyTorch](https://github.com/anibali/docker-pytorch) <br/>
+[NVIDIA Catalog https://ngc.nvidia.com/catalog/containers/nvidia:pytorch](https://ngc.nvidia.com/catalog/containers/nvidia:pytorch) <br/>
+[Individual NVIDIA/Docker PyTorch](https://github.com/anibali/docker-pytorch) <br/>
