@@ -2,6 +2,9 @@
 NVIDIA CUDA development and encapsulation using Docker<br/>
 ![NVIDIA Docker](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker.png)
 
+#### NVIDIA Toolkit Instructions
+[https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) <br/>
+
 #### Links
 [NVIDIA/Docker Github](https://github.com/NVIDIA/nvidia-docker) <br/>
 [NVIDIA Catalog https://ngc.nvidia.com/catalog/containers/nvidia:pytorch](https://ngc.nvidia.com/catalog/containers/nvidia:pytorch) <br/>
