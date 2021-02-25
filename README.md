@@ -21,6 +21,7 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 
 #### Benchmarks
 - AI-Benchmark [https://ai-benchmark.com/alpha.html](https://ai-benchmark.com/alpha.html) <br/>
+- Lambda Tensorflow [https://github.com/lambdal/lambda-tensorflow-benchmark](https://github.com/lambdal/lambda-tensorflow-benchmark)
 
 #### Links
 [NVIDIA/Docker Github](https://github.com/NVIDIA/nvidia-docker) <br/>
