@@ -14,6 +14,11 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 #### cuDNN
 - GPU Accelerated libraries [https://developer.nvidia.com/rdp/cudnn-download](https://developer.nvidia.com/rdp/cudnn-download) <br/>
 
+#### Tensorflow GPU Support
+- [https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu)
+- [Install with PIP](https://www.tensorflow.org/install/pip)
+- [Pypi Tensorflow-gpu](https://pypi.org/project/tensorflow-gpu/)
+
 #### Benchmarks
 - AI-Benchmark [https://ai-benchmark.com/alpha.html](https://ai-benchmark.com/alpha.html) <br/>
 
