@@ -11,8 +11,9 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 - K40
 - K80
 
-#### cuDNN
+#### CUDA, cuDNN
 - GPU Accelerated libraries [https://developer.nvidia.com/rdp/cudnn-download](https://developer.nvidia.com/rdp/cudnn-download) <br/>
+- [Install PyCUDA](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installing-pycuda)
 
 #### Tensorflow GPU Support
 - [Tensorflow Docker](https://www.tensorflow.org/install/docker)
