@@ -19,6 +19,7 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 - [https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu)
 - [Install with PIP](https://www.tensorflow.org/install/pip)
 - [Pypi Tensorflow-gpu](https://pypi.org/project/tensorflow-gpu/)
+- [NVIDIA TensorRT](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)
 
 #### Benchmarks
 - AI-Benchmark [https://ai-benchmark.com/alpha.html](https://ai-benchmark.com/alpha.html) <br/>
