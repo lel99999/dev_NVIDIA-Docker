@@ -1,26 +1,27 @@
 # dev_NVIDIA-Docker
-<<<<<<< HEAD
 Holding Place for NVIDIA development and files
 
 #### CUDA Programming Links
-https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/
+[https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/](https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/) <br/>
 
-https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+[https://developer.nvidia.com/blog/even-easier-introduction-cuda/](https://developer.nvidia.com/blog/even-easier-introduction-cuda/) <br/>
 
-https://developer.nvidia.com/blog/?s=parallel+for+all
+[https://developer.nvidia.com/blog/?s=parallel+for+all](https://developer.nvidia.com/blog/?s=parallel+for+all) <br/>
 
-https://developer.nvidia.com/blog/cutting-edge-parallel-algorithms-research-cuda/
+[https://developer.nvidia.com/blog/cutting-edge-parallel-algorithms-research-cuda/](https://developer.nvidia.com/blog/cutting-edge-parallel-algorithms-research-cuda/
+) <br/>
 
-https://developer.nvidia.com/blog/simple-portable-parallel-c-hemi-2/
+[https://developer.nvidia.com/blog/simple-portable-parallel-c-hemi-2/](https://developer.nvidia.com/blog/simple-portable-parallel-c-hemi-2/) <br/>
 
-https://developer.nvidia.com/blog/cuda-dynamic-parallelism-api-principles/
+[https://developer.nvidia.com/blog/cuda-dynamic-parallelism-api-principles/](https://developer.nvidia.com/blog/cuda-dynamic-parallelism-api-principles/
+) <br/>
 
-https://developer.nvidia.com/blog/boosting-productivity-and-performance-with-the-nvidia-cuda-11-2-c-compiler/
+[https://developer.nvidia.com/blog/boosting-productivity-and-performance-with-the-nvidia-cuda-11-2-c-compiler/](https://developer.nvidia.com/blog/boosting-productivity-and-performance-with-the-nvidia-cuda-11-2-c-compiler/) <br/>
 
-https://developer.nvidia.com/blog/improving-gpu-app-performance-with-cuda-11-2-device-lto/
+[https://developer.nvidia.com/blog/improving-gpu-app-performance-with-cuda-11-2-device-lto/](https://developer.nvidia.com/blog/improving-gpu-app-performance-with-cuda-11-2-device-lto/) <br/>
 
-https://developer.nvidia.com/blog/maximizing-deep-learning-inference-performance-with-nvidia-model-analyzer/
-=======
+[https://developer.nvidia.com/blog/maximizing-deep-learning-inference-performance-with-nvidia-model-analyzer/](https://developer.nvidia.com/blog/maximizing-deep-learning-inference-performance-with-nvidia-model-analyzer/) <br/>
+
 NVIDIA CUDA development and encapsulation using Docker<br/>
 ![NVIDIA Docker](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker.png)
 
@@ -52,4 +53,3 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 [NVIDIA/Docker Github](https://github.com/NVIDIA/nvidia-docker) <br/>
 [NVIDIA Catalog https://ngc.nvidia.com/catalog/containers/nvidia:pytorch](https://ngc.nvidia.com/catalog/containers/nvidia:pytorch) <br/>
 [Individual NVIDIA/Docker PyTorch](https://github.com/anibali/docker-pytorch) <br/>
->>>>>>> a085bdec1a5f69b8d1538f89f74f7c6dc877802c
