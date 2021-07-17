@@ -29,7 +29,7 @@ NVIDIA CUDA development and encapsulation using Docker<br/>
 [https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker) <br/>
 
 #### NVIDIA Tesla Cards
-- M2090
+- M2090 ***CUDA 8 is the last to support this architecture***
 - M40
 - K40
 - K80
