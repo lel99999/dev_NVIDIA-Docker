@@ -71,4 +71,14 @@ $nvidia-smi
 ```
 ![nvidia-smi cmd](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-smi-02.png) <br/>
 
-4) 
+4) Install nvidia-docker2 and reload the Docker daemon configuration
+```
+$sudo apt-get install -y nvidia-docker2
+$sudo pkill -SIGHUP dockerd
+```
+5) Test nvidia-smi with the latest official CUDA image that works with your GPU (10.2)
+```
+$docker run --runtime=nvidia --rm nvidia/cuda:10.2-base nvidia-smi
+```
+![nvidia-smit test](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-smi_testimage-01.png) <br/>
+
