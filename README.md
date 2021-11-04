@@ -60,3 +60,15 @@ https://catalog.ngc.nvidia.com/orgs/nvidia/containers/cuda) <br/>
 [NVIDIA/Docker Github](https://github.com/NVIDIA/nvidia-docker) <br/>
 [NVIDIA Catalog https://ngc.nvidia.com/catalog/containers/nvidia:pytorch](https://ngc.nvidia.com/catalog/containers/nvidia:pytorch) <br/>
 [Individual NVIDIA/Docker PyTorch](https://github.com/anibali/docker-pytorch) <br/>
+
+
+#### Step-by-Step Configuration Guide
+1) Install GPU
+2) Install GPU Driver (440.64) and CUDA Toolkit (10.2)
+- Verify Hardware and Software
+```
+$nvidia-smi
+```
+![nvidia-smi cmd](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-smi-02.png) <br/>
+
+4) 
