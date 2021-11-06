@@ -82,3 +82,21 @@ $docker run --runtime=nvidia --rm nvidia/cuda:10.2-base nvidia-smi
 ```
 ![nvidia-smit test](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-smi_testimage-01.png) <br/>
 
+#### Get NVIDIA Toolkit and Cudnn8 Working on Ubuntu 19.10, Install and Run Tensorflow 2.2
+Ran following python code (as tesorflow2_test.py):
+```
+import tensorflow as tf
+print(tf.__version__)
+
+tf.test.is_gpu_available(
+    cuda_only = True,
+    min_cuda_compute_capability=None
+)
+
+print(tf.test.is_gpu_available)
+
+```
+
+*** Ran into errors *** <br/>
+Solution was to install cuda-10.0, cuda-10.1, cuda-10.2 with --override switch for compiler check.
+Otherwise, script will have errors with libraries.
