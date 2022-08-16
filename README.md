@@ -115,3 +115,12 @@ $sudo yum install "kernel-devel-uname-r == $(uname -r)"
 - `$sudo docker run -it --runtime=nvidia --shm-size=1g -e --rm nvcr.io/nvidia/pytorch:18.05-py3` <br/>
   ![nvidia docker pytorch](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-pytorch-01.png) <br/>
   
+  Run MNIST traning example with PyTorch:  <br/>
+  ```
+  root@19a35891107c:/workspace# nvidia-smi
+  root@19a35891107c:/workspace# cd examples/mnist
+  root@19a35891107c:/workspace/examples/mnist# python main.py
+  ```
+  ![nvidia pytorch container - MNIST Training Example](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-pytorch-02.png) <br/>
+  ![nvidia pytorch container - MNIST Training complete](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-pytorch-03.png) <br/>
+  
