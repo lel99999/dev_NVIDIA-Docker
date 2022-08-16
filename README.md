@@ -100,3 +100,9 @@ print(tf.test.is_gpu_available)
 *** Ran into errors *** <br/>
 Solution was to install cuda-10.0, cuda-10.1, cuda-10.2 with --override switch for compiler check.
 Otherwise, script will have errors with libraries.
+
+#### Cannot find Kernel Headers Error
+Solution: <br/>
+```
+$sudo yum install "kernel-devel-uname-r == $(uname -r)"
+```
