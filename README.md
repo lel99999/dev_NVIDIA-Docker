@@ -136,3 +136,4 @@ $sudo yum install "kernel-devel-uname-r == $(uname -r)"
   $docker run --gpus all -it tensorflow/tensorflow:latest-gpu bash
   
   ```
+  ![nvidia tensorflow](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-tensorflow-01.png) <br/>
