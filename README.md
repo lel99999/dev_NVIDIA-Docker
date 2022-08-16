@@ -106,3 +106,6 @@ Solution: <br/>
 ```
 $sudo yum install "kernel-devel-uname-r == $(uname -r)"
 ```
+#### Commands
+- `$sudo docker run --rm --runtime=nvidia -ti nvidia/cuda:11.0.3-base-ubuntu20.04` <br/>
+  ![nvidia docker](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-01.png) <br/>
