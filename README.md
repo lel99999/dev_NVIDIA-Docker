@@ -101,6 +101,8 @@ print(tf.test.is_gpu_available)
 Solution was to install cuda-10.0, cuda-10.1, cuda-10.2 with --override switch for compiler check.
 Otherwise, script will have errors with libraries.
 
+#### Updated with Tesla P4, CUDA 11.7.1_515.65.01, NVIDIA-Linux-x86_64-515.65.01
+
 #### Cannot find Kernel Headers Error
 Solution: <br/>
 ```
@@ -109,3 +111,7 @@ $sudo yum install "kernel-devel-uname-r == $(uname -r)"
 #### Commands
 - `$sudo docker run --rm --runtime=nvidia -ti nvidia/cuda:11.0.3-base-ubuntu20.04` <br/>
   ![nvidia docker](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-01.png) <br/>
+
+- `$sudo docker run -it --runtime=nvidia --shm-size=1g -e --rm nvcr.io/nvidia/pytorch:18.05-py3` <br/>
+  ![nvidia docker pytorch](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-pytorch-01.png) <br/>
+  
