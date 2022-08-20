@@ -137,3 +137,7 @@ $sudo yum install "kernel-devel-uname-r == $(uname -r)"
   
   ```
   ![nvidia tensorflow](https://github.com/lel99999/dev_NVIDIA-Docker/blob/master/nvidia-docker-tensorflow-01.png) <br/>
+  
+##### NVIDIA GPU NLP Processing
+- [Fast NPL Processing Package with spaCy](https://spacy.io/) <br/>
+- [https://developer.nvidia.com/blog/nlp-and-text-precessing-with-rapids-now-simpler-and-faster/](https://developer.nvidia.com/blog/nlp-and-text-precessing-with-rapids-now-simpler-and-faster/) <br/>
